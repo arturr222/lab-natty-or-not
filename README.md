@@ -1,51 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? – Quadrinho Motivacional com IA
+📒 Descrição
 
-## 🚀 Introdução
+Este projeto utiliza uma IA generativa de criação de quadrinhos para desenvolver uma breve história motivacional, com o objetivo de incentivar as pessoas a treinarem e cuidarem da saúde.
+A proposta é mostrar como a IA pode gerar narrativas visuais simples, mas impactantes, explorando criatividade e realismo em poucos quadros.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Quadrinhos IA – Editora Itacaiúnas
+https://editoraitacaiunas.com.br/app/quadrinhos-ia/creator.html
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+IA Generativa de Texto e Imagem (integrada à plataforma)
 
-### Objetivos
+GitHub (versionamento e portfólio)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
 
-### Template
+Definição do tema: incentivo à prática de exercícios físicos
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação do roteiro com apenas 6 quadros, mantendo uma narrativa simples e direta
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Escrita dos prompts para geração dos personagens, cenários e falas
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Ajustes visuais e textuais para tornar o quadrinho mais natural e motivador
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Organização do material final para apresentação no repositório
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🚀 Resultados
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado foi um quadrinho curto, composto por seis quadros, que transmite uma mensagem de motivação e disciplina de forma leve e acessível.
+O projeto demonstra como IAs generativas podem ser usadas para criar conteúdos visuais criativos, mesmo sem conhecimentos avançados em design ou ilustração.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+(insira aqui a imagem do quadrinho ou prints dos quadros)
